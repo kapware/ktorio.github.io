@@ -43,8 +43,8 @@ Example
 
 For more detailed guide on setting up build files see
 
-* [Getting Started with Gradle](getting-started-gradle)
-* [Getting Started with Maven](getting-started-maven)
+* [Getting Started with Gradle](gradle)
+* [Getting Started with Maven](maven)
 
 ### Create the App
 
